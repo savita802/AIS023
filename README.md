@@ -7,3 +7,4 @@ machine learning  module 1
 
 #day4 : code for knn Regression
 
+#day6 : code for multilple regression
